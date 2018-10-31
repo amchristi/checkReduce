@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/out/production/sootpractice" />
+    <output-test url="file://$MODULE_DIR$/out/test/sootpractice" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="junit:junit:4.11" level="project" />
+    <orderEntry type="library" name="heros-trunk" level="project" />
+    <orderEntry type="library" name="jasmin-trunk" level="project" />
+    <orderEntry type="library" name="soot-trunk" level="project" />
+    <orderEntry type="library" name="soot-infoflow-trunk" level="project" />
+  </component>
+</module>
